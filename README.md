@@ -1,6 +1,8 @@
 # CRS-Java-Project
 CRS is a software solution that is designed to help educational institutions to manage how the students recover failed or incomplete courses. A Java-based application is developed using Object-Oriented Programming (OOP) principles to meet that goal.
 
+This project is made via Apache Netbeans, and is needed to run the program.
+
 There are 5 main functionality included in this project:-
 
 1)	User Management
